@@ -106,6 +106,8 @@ The generated CAPTCHA will look like centered text with:
 - Random noise dots
 - Light gradient background
 
+![CAPTCHA Demo](screenshots/captcha-demo.png)
+
 ## Requirements
 
 The library includes an embedded DejaVu Sans font, so no external font files are needed.
