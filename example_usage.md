@@ -147,6 +147,10 @@ Open your browser:
 http://127.0.0.1:8080
 ```
 
+## CAPTCHA Demo
+
+![CAPTCHA Demo](screenshots/captcha-webserver.png) 
+
 ---
 
 ## ✅ Features Demonstrated
