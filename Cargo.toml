@@ -1,0 +1,26 @@
+[package]
+name = "captcha-generator"
+version = "0.1.0"
+edition = "2021"
+authors = ["Akash Kumar P R <theakashkumar2211@gmail.com>"]
+description = "A customizable CAPTCHA image generator with distortion and noise"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/theakashkumar22/captcha-generator"
+documentation = "https://docs.rs/captcha-generator"
+readme = "README.md"
+keywords = ["captcha", "image", "security", "verification", "generator"]
+categories = ["multimedia::images", "web-programming"]
+
+[dependencies]
+rand = "0.8"
+image = "0.25"
+rusttype = "0.9"
+
+[lib]
+name = "captcha_generator"
+path = "src/lib.rs"
+
+[[bin]]
+name = "captcha-gen"
+path = "src/main.rs"
+required-features = []
