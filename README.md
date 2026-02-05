@@ -108,13 +108,7 @@ The generated CAPTCHA will look like centered text with:
 The library includes an embedded DejaVu Sans font, so no external font files are needed.
 
 ## License
-
-Licensed under either of:
-
-- Apache License, Version 2.0 ([LICENSE-APACHE](LICENSE-APACHE))
-- MIT license ([LICENSE-MIT](LICENSE-MIT))
-
-at your option.
+- MIT license ([LICENSE](LICENSE))
 
 ## Contributing
 
