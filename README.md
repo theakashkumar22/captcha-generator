@@ -2,6 +2,9 @@
 
 A Rust library for generating customizable CAPTCHA images with distortion and noise effects.
 
+[![Crates.io](https://img.shields.io/crates/v/captcha-generator.svg)](https://crates.io/crates/captcha-generator)
+[![Documentation](https://docs.rs/captcha-generator/badge.svg)](https://docs.rs/captcha-generator)
+
 ## Features
 
 - 🎨 Centered, readable text with customizable font size
